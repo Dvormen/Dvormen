@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: dont
 - 😄 Pronouns: Nick/Hers
-- ⚡ Fun fact: Did zou know that in terms of male human and female pokemon, vaporeon is the most compatable
+- ⚡ Fun fact: Did you know that in terms of male human and female pokemon, vaporeon is the most compatable
 
 <!---
 Dvormen/Dvormen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
